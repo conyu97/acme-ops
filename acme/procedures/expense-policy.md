@@ -9,7 +9,7 @@ Provide guidance for submitting, approving, and reimbursing business expenses.
 - Manager approval required for reimbursements.
 
 ## Submission Process
-- [Add the tool or system used to submit expenses, e.g. Expensify, Concur, or a Google Form]
+- Use Google Forms to submit expenses.
 - [List the steps: e.g. fill out the form → attach receipt → submit to manager for approval]
 - [Note any deadlines or processing times]
 
