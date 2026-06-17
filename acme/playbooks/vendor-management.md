@@ -14,3 +14,10 @@
 - Schedule quarterly business reviews.
 - Track performance metrics and SLAs.
 - Maintain a log of issues and resolutions.
+
+## Vendor Offboarding
+- Notify the vendor of termination with appropriate notice period.
+- Revoke system access and deactivate accounts.
+- Retrieve any company data or assets held by the vendor.
+- Settle final invoices and close purchase orders.
+- Document lessons learned for future vendor evaluations.
